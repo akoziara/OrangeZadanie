@@ -523,3 +523,59 @@ INFO:root:Response time: 0.223151
 INFO:root:Response statusCode: 200
 INFO:root:Is json response: True
 INFO:root:Is valid json: True
+INFO:root:Response time: 0.287003
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.198524
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.210281
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.225825
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.222093
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.203939
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.188082
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.21823
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.2233
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.220907
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.20091
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.214478
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.311502
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.19564
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
