@@ -8,14 +8,13 @@ def validateJSON(jsonData):
         json.loads(jsonData)
     except ValueError as err:
         return False
-        return True
+    return True
 
-HowLong = 10
-toCheck = 5
+HowLong = 5
+toCheck = 10
 
 logging.basicConfig(filename="log.txt", level=logging.INFO)
-
-    for x in range(toCheck):
+for x in range(toCheck):
     url = "https://tvgo.orange.pl/gpapi/status"
     response = requests.get(url)
 
@@ -26,6 +25,7 @@ logging.basicConfig(filename="log.txt", level=logging.INFO)
         'content-type') == 'application/vnd.orangeott.v1+json'
 
     isJson = validateJSON(response.text)
+
 
     print(response.json())
     print(isJsonresponse)

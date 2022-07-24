@@ -315,3 +315,211 @@ INFO:root:Response time: 0.19024
 INFO:root:Response statusCode: 200
 INFO:root:Is json response: True
 INFO:root:Is valid json: True
+INFO:root:Response time: 0.227496
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.204571
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.169768
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.202007
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.195259
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.193468
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.244226
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.205711
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.210741
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.221178
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.224902
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.201613
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 1.293478
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.250698
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.194856
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.204937
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.195943
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.191867
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.215979
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.212114
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.230478
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.235431
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.593153
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.244073
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.201114
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.228259
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.510234
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.238326
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.226455
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.291818
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.197509
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.229484
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.217565
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.463121
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.207427
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.201643
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.24065
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.218946
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.639519
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.217445
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.22525
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.195099
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.221432
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.206556
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.230567
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.194405
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.200967
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.206949
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.209406
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.20784
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.264395
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
+INFO:root:Response time: 0.223151
+INFO:root:Response statusCode: 200
+INFO:root:Is json response: True
+INFO:root:Is valid json: True
