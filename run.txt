@@ -1,0 +1,2 @@
+Description of starting the program:
+Enter the command 'python ./main.py' in the terminal.
